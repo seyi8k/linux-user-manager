@@ -43,11 +43,8 @@ Once executed, an interactive menu will appear:
 Enter your choice (1-4):
 Follow the prompts to perform the desired user management operation.
 
-Important Notes:
-When adding a new user, remember to set a password for your new user after creation using the passwd command: sudo passwd <username>
-Deleting a user with this script (userdel -r) will also remove their home directory and mail spool.
-
-Ensure the id, useradd, and userdel commands are available in your system's PATH.
+**Important Notes:**
+**When adding a new user, remember to set a password for your new user after creation using the passwd command: sudo passwd <username>**
 
 # Contributions
 Feel free to fork the repository, open issues, or submit pull requests to improve this project.
