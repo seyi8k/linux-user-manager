@@ -44,7 +44,7 @@ Enter your choice (1-4):
 Follow the prompts to perform the desired user management operation.
 
 **Important Notes:**
-**When adding a new user, remember to set a password for your new user after creation using the passwd command: sudo passwd <username>**
+**When adding a new user, remember to set a password for your new user after creation using the passwd command: sudo passwd (new user)**
 
 # Contributions
-Feel free to fork the repository, open issues, or submit pull requests to improve this project.
+Please feel free to fork the repository, open issues, or submit pull requests to improve this project.
